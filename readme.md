@@ -15,4 +15,4 @@
  
  ## Screenshot ##
  
- ![picture](../assets/Screenshot%20.png)
+ ![picture](./assets/Screenshot%20.png)
